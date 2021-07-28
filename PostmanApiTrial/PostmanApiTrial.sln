@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostmanApiTrial", "PostmanApiTrial\PostmanApiTrial.csproj", "{CECD9A52-8555-4698-8CE8-C8F47747497B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECD9A52-8555-4698-8CE8-C8F47747497B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECD9A52-8555-4698-8CE8-C8F47747497B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECD9A52-8555-4698-8CE8-C8F47747497B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECD9A52-8555-4698-8CE8-C8F47747497B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6707A23B-F675-4009-B2A0-B490B02F80BF}
+	EndGlobalSection
+EndGlobal
